@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-cc-controller",
+  "version": "1.0.0",
+  "description": "Minimal CC:Tweaked Node.js Server",
+  "main": "server.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

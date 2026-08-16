@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Redstone Web Controller",
+  "description": "Minimal Node.js Express server to control Minecraft CC: Tweaked mod. Easily deployable to Render.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
